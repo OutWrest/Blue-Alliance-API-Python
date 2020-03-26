@@ -1,2 +1,4 @@
 # Blue-Alliance-API-Python
- Uses python to grab data from The Blue Alliance
+ Uses python to grab data from The Blue Alliance. 
+ Simple API Tool
+ ```
